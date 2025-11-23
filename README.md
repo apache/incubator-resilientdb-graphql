@@ -17,6 +17,9 @@
 # under the License.
 #
 
+⚠️ This repository is **deprecated**.  
+Active development now continues in the [ResilientDB Monorepo](https://github.com/apache/incubator-resilientdb).
+This particular tool can be found at [Ecosystem/GraphQL](https://github.com/apache/incubator-resilientdb/tree/master/ecosystem/graphql) in the ResilientDB Repository.
 
 # ResilientDB GraphQL
 ResilientDB GraphQL Server
